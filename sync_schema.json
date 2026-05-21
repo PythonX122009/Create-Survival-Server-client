@@ -110,6 +110,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/4MlGvnq6/versions/iE6aspko/colorful-ping-indicator-1.21.9.zip",
+      "name": "colorful-ping-indicator",
+      "version": "iE6aspko",
+      "type": "resourcepack"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/836bPNGo/ComplementaryReimagined_r5.7.1.zip",
       "name": "complementary-reimagined",
       "version": "836bPNGo",
@@ -422,6 +428,18 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/xN57JJts/FreshAnimations_v1.10.4.zip",
+      "name": "fresh-animations",
+      "version": "xN57JJts",
+      "type": "resourcepack"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/YAVTU8mK/versions/RfJ3uz2J/FA%2BAll_Extensions-v1.8.1.zip",
+      "name": "fresh-animations-extensions",
+      "version": "RfJ3uz2J",
+      "type": "resourcepack"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/gFmrC8Ru/geckolib-neoforge-1.21.1-4.8.4.jar",
       "name": "geckolib",
       "version": "gFmrC8Ru",
@@ -552,6 +570,12 @@
       "name": "quark",
       "version": "dGSYpGOo",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/lewweaHO/versions/9WhJCze2/Recolourful%20Containers%203.1.1%20%281.19.4%2B%29.zip",
+      "name": "recolourful-containers-gui",
+      "version": "9WhJCze2",
+      "type": "resourcepack"
     },
     {
       "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/x99nCLTm/resourcefullib-neoforge-1.21-3.0.12.jar",
