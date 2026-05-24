@@ -518,6 +518,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/qYqVf5jP/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar",
+      "name": "mru",
+      "version": "qYqVf5jP",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/Jdbbtt0i/versions/guON3qvQ/CreateNumismatics-1.0.20%2Bneoforge-mc1.21.1.jar",
       "name": "numismatics",
       "version": "guON3qvQ",
@@ -632,6 +638,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/kti7i9SG/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar",
+      "name": "sound",
+      "version": "kti7i9SG",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar",
       "name": "spark",
       "version": "v5qtqRQi",
@@ -719,6 +731,12 @@
       "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/XwL25au3/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
       "name": "xaeros-world-map",
       "version": "XwL25au3",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+      "name": "yacl",
+      "version": "7TVdVtxF",
       "type": "mod"
     },
     {
