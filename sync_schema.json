@@ -710,6 +710,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/YaZEkFmd/versions/AJSmuGAV/VS-Sable-HoseConnectors-0.1.6-1.21.1.jar",
+      "name": "vs-hose-connectors",
+      "version": "AJSmuGAV",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/AtB5mHky/versions/uWr2aTW9/watut-neoforge-1.21.0-1.2.7.jar",
       "name": "what-are-they-up-to",
       "version": "uWr2aTW9",
@@ -774,6 +780,13 @@
       "name": "zeta",
       "version": "9GjNW2Gf",
       "type": "mod"
+    }
+  ],
+  "modify": [
+    {
+      "type": "remove",
+      "pattern": "^mods/oh-the-biomes-weve-gone-.*\\.jar$",
+      "path": "."
     }
   ]
 }
