@@ -146,6 +146,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/DOUdJVEm/versions/diwhY7gL/controlify-3.0.0%2Blts%2B1.21.1-neoforge.jar",
+      "name": "controlify",
+      "version": "diwhY7gL",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar",
       "name": "controlling",
       "version": "FaNppCJJ",
@@ -341,6 +347,12 @@
       "url": "https://cdn.modrinth.com/data/RYJzdkDr/versions/ry1hvo4l/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
       "name": "create-threaded-trains",
       "version": "ry1hvo4l",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/H6bJ8Ju4/versions/csCe2v7f/create_tweaked_controllers-1.21.1-1.2.7.jar",
+      "name": "create-tweaked-controllers",
+      "version": "csCe2v7f",
       "type": "mod"
     },
     {
