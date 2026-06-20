@@ -194,6 +194,18 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/Sza3GgEL/versions/IfTHBP1A/createthrusters-bundled-V0.1.17.jar",
+      "name": "create-aeronautics-thrusters-and-things",
+      "version": "IfTHBP1A",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/5fUBLqeW/versions/cq5Kx7Cn/create_aeronautics_toolgun-0.2.2.jar",
+      "name": "create-aeronautics-toolgun",
+      "version": "cq5Kx7Cn",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/P26k79kP/versions/LKsY0cFi/aeroworks-1.2.9.jar",
       "name": "create-aeroworks",
       "version": "LKsY0cFi",
@@ -710,6 +722,12 @@
       "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/PythonX122009/Create-Survival-Server-client/main/mods/voxy-0.2.14-alpha.jar",
+      "name": "voxy",
+      "version": "0.2.14-alpha",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/YaZEkFmd/versions/AJSmuGAV/VS-Sable-HoseConnectors-0.1.6-1.21.1.jar",
       "name": "vs-hose-connectors",
       "version": "AJSmuGAV",
@@ -750,19 +768,6 @@
       "name": "zeta",
       "version": "9GjNW2Gf",
       "type": "mod"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/PythonX122009/Create-Survival-Server-client/main/mods/voxy-0.2.14-alpha.jar",
-      "name": "voxy",
-      "version": "0.2.14-alpha",
-      "type": "mod"
-    }
-  ],
-  "modify": [
-    {
-      "type": "remove",
-      "pattern": "^mods/controlify-.*\\.jar$",
-      "path": "."
     }
   ]
 }
