@@ -188,15 +188,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/YhZLrAFC/create-aeronautics-bundled-1.21.1-1.2.1.jar",
+      "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/w7zlLnea/create-aeronautics-bundled-1.21.1-1.3.0.jar",
       "name": "create-aeronautics",
-      "version": "YhZLrAFC",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/Sza3GgEL/versions/IfTHBP1A/createthrusters-bundled-V0.1.17.jar",
-      "name": "create-aeronautics-thrusters-and-things",
-      "version": "IfTHBP1A",
+      "version": "w7zlLnea",
       "type": "mod"
     },
     {
@@ -206,9 +200,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/P26k79kP/versions/LKsY0cFi/aeroworks-1.2.9.jar",
+      "url": "https://cdn.modrinth.com/data/P26k79kP/versions/vsT0uzkn/aeroworks-1.2.11.jar",
       "name": "create-aeroworks",
-      "version": "LKsY0cFi",
+      "version": "vsT0uzkn",
       "type": "mod"
     },
     {
@@ -218,9 +212,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bsGaXKEd/createbigcannons-5.11.3%2Bmc.1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/Xd4DDnph/createbigcannons-5.11.6%2Bmc.1.21.1.jar",
       "name": "create-big-cannons",
-      "version": "bsGaXKEd",
+      "version": "Xd4DDnph",
       "type": "mod"
     },
     {
@@ -242,9 +236,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/EHyCRpCV/create_connected-1.1.16-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/ZYZ7Y9iB/create_connected-1.3.1-mc1.21.1.jar",
       "name": "create-connected",
-      "version": "EHyCRpCV",
+      "version": "ZYZ7Y9iB",
       "type": "mod"
     },
     {
@@ -260,15 +254,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/mva5q4qZ/versions/oQnHpdLL/create_submarine-2.1.6.jar",
+      "url": "https://cdn.modrinth.com/data/mva5q4qZ/versions/UcXaPVeD/create_submarine-2.2.4.jar",
       "name": "create-deep-seas",
-      "version": "oQnHpdLL",
+      "version": "UcXaPVeD",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/uxgzKkcD/createdieselgenerators-1.21.1-1.3.11.jar",
+      "url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/7TPYyw7R/createdieselgenerators-1.21.1-1.3.13.jar",
       "name": "create-diesel-generators",
-      "version": "uxgzKkcD",
+      "version": "7TPYyw7R",
       "type": "mod"
     },
     {
@@ -326,9 +320,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/3MbtX7qD/create_radar-0.4.8-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/AntNFNAx/create_radar-0.4.9.4-1.21.1.jar",
       "name": "create-radars",
-      "version": "3MbtX7qD",
+      "version": "AntNFNAx",
       "type": "mod"
     },
     {
@@ -620,9 +614,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/3FMsUjO4/sable-neoforge-1.21.1-1.2.2.jar",
+      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/1L6XJqnY/sable-neoforge-1.21.1-2.0.3.jar",
       "name": "sable",
-      "version": "3FMsUjO4",
+      "version": "1L6XJqnY",
       "type": "mod"
     },
     {
@@ -644,9 +638,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/iw5APcWy/sodium-neoforge-0.8.12-beta.1%2Bmc1.21.1.jar",
       "name": "sodium",
-      "version": "Pb3OXVqC",
+      "version": "iw5APcWy",
       "type": "mod"
     },
     {
@@ -768,6 +762,13 @@
       "name": "zeta",
       "version": "9GjNW2Gf",
       "type": "mod"
+    }
+  ],
+  "modify": [
+    {
+      "type": "remove",
+      "pattern": "^mods/create-aeronautics-thrusters-and-things-.*\\.jar$",
+      "path": "."
     }
   ]
 }
