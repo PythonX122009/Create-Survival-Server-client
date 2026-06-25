@@ -530,6 +530,18 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/RRxvWKNC/versions/yQdcUfnr/LowOnFire%20v26.2%C2%A78.zip",
+      "name": "low-on-fire",
+      "version": "yQdcUfnr",
+      "type": "resourcepack"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/CZrLuVQo/versions/AV6Mwfm5/Low%20Shield.zip",
+      "name": "low-shield-pack",
+      "version": "AV6Mwfm5",
+      "type": "resourcepack"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/ProvjTA7/versions/z9HvpJMU/mechanicals-1.21.1-1.1.0.jar",
       "name": "mechanicals-lib",
       "version": "z9HvpJMU",
@@ -569,6 +581,12 @@
       "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/2C41Q8WX/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
       "name": "packet-fixer",
       "version": "2C41Q8WX",
+      "type": "mod"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PythonX122009/Create-Survival-Server-client/main/mods/pathmind-1.1.4.jar",
+      "name": "pathmind",
+      "version": "1.1.4",
       "type": "mod"
     },
     {
