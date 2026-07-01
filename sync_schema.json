@@ -38,6 +38,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/RpH8tmT1/versions/AN8clG2E/azimuth-1.4.0.jar",
+      "name": "azimuth-api",
+      "version": "AN8clG2E",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/OfKzpbRU/versions/guIAbyuH/baguettelib-1.21.1-NeoForge-2.0.3.jar",
       "name": "baguettelib",
       "version": "guIAbyuH",
@@ -224,9 +230,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/XKDQlGJW/bits_n_bobs-0.0.44.jar",
+      "url": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/cSCeD78i/bits_n_bobs-2.1.9-beta.jar",
       "name": "create-bits-n-bobs",
-      "version": "XKDQlGJW",
+      "version": "cSCeD78i",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/wYkiNwv2/versions/CbqV5KMv/bits_n_tracks-1.0.3.1-release.jar",
+      "name": "create-bits-n-tracks",
+      "version": "CbqV5KMv",
       "type": "mod"
     },
     {
@@ -695,6 +707,12 @@
       "url": "https://cdn.modrinth.com/data/guitPqEi/versions/px0CCB06/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
       "name": "storagedrawers",
       "version": "px0CCB06",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/sHO3MhQx/versions/LlB8fR3U/struts-1.2.5.jar",
+      "name": "strut-your-stuff",
+      "version": "LlB8fR3U",
       "type": "mod"
     },
     {
