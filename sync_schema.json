@@ -236,12 +236,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/wYkiNwv2/versions/CbqV5KMv/bits_n_tracks-1.0.3.1-release.jar",
-      "name": "create-bits-n-tracks",
-      "version": "CbqV5KMv",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/btq68HMO/versions/TUJIHmUh/create-central-kitchen-2.4.0.jar",
       "name": "create-central-kitchen",
       "version": "TUJIHmUh",
@@ -804,6 +798,13 @@
       "name": "zeta",
       "version": "9GjNW2Gf",
       "type": "mod"
+    }
+  ],
+  "modify": [
+    {
+      "type": "remove",
+      "pattern": "^mods/create-bits-n-tracks-.*\\.jar$",
+      "path": "."
     }
   ]
 }
