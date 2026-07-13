@@ -482,6 +482,12 @@
       "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/PythonX122009/Create-Survival-Server-client/main/mods/impaled-1.2.0+neoforge.jar",
+      "name": "impaled",
+      "version": "1.2.0+neoforge",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
       "name": "iris",
       "version": "t3ruzodq",
@@ -798,13 +804,6 @@
       "name": "zeta",
       "version": "9GjNW2Gf",
       "type": "mod"
-    }
-  ],
-  "modify": [
-    {
-      "type": "remove",
-      "pattern": "^mods/create-bits-n-tracks-.*\\.jar$",
-      "path": "."
     }
   ]
 }
