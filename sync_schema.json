@@ -842,6 +842,12 @@
       "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/PythonX122009/Create-Survival-Server-client/main/mods/voxy-0.2.15-beta.jar",
+      "name": "voxy",
+      "version": "0.2.15-beta",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/YaZEkFmd/versions/AJSmuGAV/VS-Sable-HoseConnectors-0.1.6-1.21.1.jar",
       "name": "vs-hose-connectors",
       "version": "AJSmuGAV",
@@ -882,13 +888,6 @@
       "name": "zeta",
       "version": "9GjNW2Gf",
       "type": "mod"
-    }
-  ],
-  "modify": [
-    {
-      "type": "remove",
-      "pattern": "^mods/voxy-.*\\.jar$",
-      "path": "."
     }
   ]
 }
