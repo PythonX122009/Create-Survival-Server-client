@@ -32,6 +32,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/y4JF3gXL/versions/aXfzs8l3/armourersworkshop-forge-1.21.1-3.4.0-beta.3.jar",
+      "name": "armourers-workshop",
+      "version": "aXfzs8l3",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/dJgL278E/athena-neoforge-1.21.1-4.0.6.jar",
       "name": "athena-ctm",
       "version": "dJgL278E",
@@ -53,6 +59,12 @@
       "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/3XiinKbh/balm-neoforge-1.21.1-21.0.58.jar",
       "name": "balm",
       "version": "3XiinKbh",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/w0mifib8/bellsandwhistles-0.4.7-1.21.1.jar",
+      "name": "bellsandwhistles",
+      "version": "w0mifib8",
       "type": "mod"
     },
     {
@@ -200,9 +212,21 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/YhZLrAFC/create-aeronautics-bundled-1.21.1-1.2.1.jar",
+      "url": "https://cdn.modrinth.com/data/Gxj4Ihed/versions/uDnC1TSw/create_aero_radar-0.1.1-1.21.1.jar",
+      "name": "create-aero-radars",
+      "version": "uDnC1TSw",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/w7zlLnea/create-aeronautics-bundled-1.21.1-1.3.0.jar",
       "name": "create-aeronautics",
-      "version": "YhZLrAFC",
+      "version": "w7zlLnea",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/HLbPoouI/versions/L6KPVFxI/portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar",
+      "name": "create-aeronautics-portable-engine-liquid-fuel",
+      "version": "L6KPVFxI",
       "type": "mod"
     },
     {
@@ -224,9 +248,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bsGaXKEd/createbigcannons-5.11.3%2Bmc.1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bOiDu0LS/createbigcannons-5.11.7%2Bmc.1.21.1.jar",
       "name": "create-big-cannons",
-      "version": "bsGaXKEd",
+      "version": "bOiDu0LS",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/xxaCKdq3/versions/3KHer3VE/cbc_going_ballistic-0.3.0.jar",
+      "name": "create-big-cannons-going-ballistic",
+      "version": "3KHer3VE",
       "type": "mod"
     },
     {
@@ -239,6 +269,18 @@
       "url": "https://cdn.modrinth.com/data/btq68HMO/versions/TUJIHmUh/create-central-kitchen-2.4.0.jar",
       "name": "create-central-kitchen",
       "version": "TUJIHmUh",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/W1ZUfWdr/versions/iOm9m3BL/simulatedcoasters-0.1.1.jar",
+      "name": "create-coasters-simulated",
+      "version": "iOm9m3BL",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/qucToeoF/createcobblestone-1.4.12%2Bneoforge-1.21.1-144.jar",
+      "name": "create-cobblestone",
+      "version": "qucToeoF",
       "type": "mod"
     },
     {
@@ -266,9 +308,21 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/mva5q4qZ/versions/oQnHpdLL/create_submarine-2.1.6.jar",
+      "url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/qrcMVoBD/createdeco-2.1.3.jar",
+      "name": "create-deco",
+      "version": "qrcMVoBD",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/mva5q4qZ/versions/UcXaPVeD/create_submarine-2.2.4.jar",
       "name": "create-deep-seas",
-      "version": "oQnHpdLL",
+      "version": "UcXaPVeD",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/x49wilh8/versions/uQsIRky8/Design-n-Decor-1.21.1-2.2b.jar",
+      "name": "create-design-n-decor",
+      "version": "uQsIRky8",
       "type": "mod"
     },
     {
@@ -314,6 +368,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/VzdCnMqW/versions/CbRqaEft/pantographsandwires-neoforge-1.21.1-beta-0.2.3-C6.jar",
+      "name": "create-pantographs-and-wires",
+      "version": "CbRqaEft",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/CuAT8bVS/versions/BaqhHNhU/pipesnphysics-1.0.4.jar",
       "name": "create-pipes-n-physics",
       "version": "BaqhHNhU",
@@ -338,9 +398,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/Dq3STxps/versions/n4iiBI1w/createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6.jar",
+      "url": "https://cdn.modrinth.com/data/Dq3STxps/versions/hjpv7klQ/createrailwaysnavigator-neoforge-1.21.1-beta-0.9.1-C6.jar",
       "name": "create-railways-navigator",
-      "version": "n4iiBI1w",
+      "version": "hjpv7klQ",
       "type": "mod"
     },
     {
@@ -350,9 +410,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/dZa50kut/railways-0.2.0-beta.2%2Bneoforge-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/oQKsMKfj/railways-0.2.0%2Bneoforge-mc1.21.1.jar",
       "name": "create-steam-n-rails-1.21.1",
-      "version": "dZa50kut",
+      "version": "oQKsMKfj",
       "type": "mod"
     },
     {
@@ -398,9 +458,21 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/6bSNB0Np/dragonlib-neoforge-1.21.1-beta-3.0.26.jar",
+      "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/x376YU9w/dragonlib-neoforge-1.21.1-beta-3.0.28.jar",
       "name": "dragonlib",
-      "version": "6bSNB0Np",
+      "version": "x376YU9w",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/KsqvI0hD/versions/zdSwg9kS/drivebywire-0.3.0.jar",
+      "name": "drive-by-wire-sable",
+      "version": "zdSwg9kS",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/lDYpnxit/versions/cPM0cfwo/drivebywire-typewriter-1.1.0-beta.2.jar",
+      "name": "drive-by-wiretypewriter",
+      "version": "cPM0cfwo",
       "type": "mod"
     },
     {
@@ -446,9 +518,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/9gp7w8NC/FarmersDelight-1.21.1-1.3.1.jar",
+      "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/GbNuOZ4S/FarmersDelight-1.21.1-1.3.2.jar",
       "name": "farmers-delight",
-      "version": "9gp7w8NC",
+      "version": "GbNuOZ4S",
       "type": "mod"
     },
     {
@@ -482,15 +554,15 @@
       "type": "mod"
     },
     {
-      "url": "https://raw.githubusercontent.com/PythonX122009/Create-Survival-Server-client/main/mods/impaled-1.2.0+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/PythonX122009/Create-Survival-Server-client/main/mods/impaled-1.2.0neoforge.jar",
       "name": "impaled",
-      "version": "1.2.0+neoforge",
+      "version": "1.2.0neoforge",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
       "name": "iris",
-      "version": "t3ruzodq",
+      "version": "KduFYu4t",
       "type": "mod"
     },
     {
@@ -560,9 +632,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/GjDWHqm5/moonlight-neoforge-1.21.1-3.0.7.jar",
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/CitoQHqE/moonlight-neoforge-1.21.1-3.3.0.jar",
       "name": "moonlight",
-      "version": "GjDWHqm5",
+      "version": "CitoQHqE",
       "type": "mod"
     },
     {
@@ -614,6 +686,18 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar",
+      "name": "polymorph",
+      "version": "VEburL70",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/eWiBLJ9R/versions/8EtGIOFr/powergrid-mc1.21.1-0.5.5.1.jar",
+      "name": "power-grid",
+      "version": "8EtGIOFr",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/sNPHd5e4/versions/Fwmuel1c/pretty_in_pink-1.0.4-1.21.1.jar",
       "name": "pretty-in-pink",
       "version": "Fwmuel1c",
@@ -650,9 +734,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/3FMsUjO4/sable-neoforge-1.21.1-1.2.2.jar",
+      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/1L6XJqnY/sable-neoforge-1.21.1-2.0.3.jar",
       "name": "sable",
-      "version": "3FMsUjO4",
+      "version": "1L6XJqnY",
       "type": "mod"
     },
     {
@@ -674,9 +758,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/S3DUMfBo/sodium-neoforge-0.8.12%2Bmc1.21.1.jar",
       "name": "sodium",
-      "version": "Pb3OXVqC",
+      "version": "S3DUMfBo",
       "type": "mod"
     },
     {
@@ -716,9 +800,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/3N4gijtd/supplementaries-neoforge-1.21.1-3.6.4.jar",
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/UPJIp6At/supplementaries-neoforge-1.21.1-3.8.5.jar",
       "name": "supplementaries",
-      "version": "3N4gijtd",
+      "version": "UPJIp6At",
       "type": "mod"
     },
     {
@@ -755,12 +839,6 @@
       "url": "https://cdn.modrinth.com/data/zuARv1N7/versions/XUyNAmF2/vista-neoforge-1.21.1-4.3.1.jar",
       "name": "vista_tv",
       "version": "XUyNAmF2",
-      "type": "mod"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/PythonX122009/Create-Survival-Server-client/main/mods/voxy-0.2.14-alpha.jar",
-      "name": "voxy",
-      "version": "0.2.14-alpha",
       "type": "mod"
     },
     {
@@ -804,6 +882,13 @@
       "name": "zeta",
       "version": "9GjNW2Gf",
       "type": "mod"
+    }
+  ],
+  "modify": [
+    {
+      "type": "remove",
+      "pattern": "^mods/voxy-.*\\.jar$",
+      "path": "."
     }
   ]
 }
