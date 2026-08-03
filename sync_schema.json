@@ -248,6 +248,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/yxqh0Zmh/versions/nMOCJpau/createbacktanktrims-1.2.0.jar",
+      "name": "create-backtank-trims",
+      "version": "nMOCJpau",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bOiDu0LS/createbigcannons-5.11.7%2Bmc.1.21.1.jar",
       "name": "create-big-cannons",
       "version": "bOiDu0LS",
@@ -305,6 +311,12 @@
       "url": "https://cdn.modrinth.com/data/aqYNR6rI/versions/1Z1LCW5Z/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
       "name": "create-copper-zinc",
       "version": "1Z1LCW5Z",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/BBhCMftF/versions/JEmLrfe6/create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
+      "name": "create-curios-jetpack",
+      "version": "JEmLrfe6",
       "type": "mod"
     },
     {
