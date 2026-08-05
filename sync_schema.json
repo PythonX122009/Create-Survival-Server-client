@@ -74,6 +74,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/Q1vvjJYV/versions/hIibTfxn/BSL_v10.1.3.zip",
+      "name": "bsl-shaders",
+      "version": "hIibTfxn",
+      "type": "shader"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/rjti7mm0/versions/1ttsIjdZ/cbc_compact_mount-1.2.2.jar",
       "name": "cbc-compact-mount",
       "version": "1ttsIjdZ",
@@ -126,6 +132,24 @@
       "name": "collective",
       "version": "4XRlrKGN",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/4MlGvnq6/versions/zCdIey5U/Colorful-Ping-Indicator.zip",
+      "name": "colorful-ping-indicator",
+      "version": "zCdIey5U",
+      "type": "resourcepack"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/yCCduG44/ComplementaryReimagined_r5.8.1.zip",
+      "name": "complementary-reimagined",
+      "version": "yCCduG44",
+      "type": "shader"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/VMHXIk50/ComplementaryUnbound_r5.8.1.zip",
+      "name": "complementary-unbound",
+      "version": "VMHXIk50",
+      "type": "shader"
     },
     {
       "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/9Bz9VtV5/connector-2.0.0-beta.16%2B1.21.1-full.jar",
@@ -362,12 +386,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/CuAT8bVS/versions/Q2ArZOIM/pipesnphysics-3.0.1.jar",
-      "name": "create-pipes-n-physics",
-      "version": "Q2ArZOIM",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/wPQ6GgFE/versions/3Y4r0ItR/create_power_loader-2.0.5-mc1.21.1.jar",
       "name": "create-power-loader",
       "version": "3Y4r0ItR",
@@ -524,6 +542,18 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/xN57JJts/FreshAnimations_v1.10.4.zip",
+      "name": "fresh-animations",
+      "version": "xN57JJts",
+      "type": "resourcepack"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/YAVTU8mK/versions/RfJ3uz2J/FA%2BAll_Extensions-v1.8.1.zip",
+      "name": "fresh-animations-extensions",
+      "version": "RfJ3uz2J",
+      "type": "resourcepack"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/tPkJmim6/geckolib-neoforge-1.21.1-4.9.2.jar",
       "name": "geckolib",
       "version": "tPkJmim6",
@@ -588,6 +618,18 @@
       "name": "lithostitched",
       "version": "qPASucBM",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/RRxvWKNC/versions/yQdcUfnr/LowOnFire%20v26.2%C2%A78.zip",
+      "name": "low-on-fire",
+      "version": "yQdcUfnr",
+      "type": "resourcepack"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/CZrLuVQo/versions/AV6Mwfm5/Low%20Shield.zip",
+      "name": "low-shield-pack",
+      "version": "AV6Mwfm5",
+      "type": "resourcepack"
     },
     {
       "url": "https://cdn.modrinth.com/data/ProvjTA7/versions/GBSlpwLT/mechanicals-1.21.1-1.1.6.jar",
@@ -678,6 +720,12 @@
       "name": "quark",
       "version": "yvp3Jbmk",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/lewweaHO/versions/Req8KKc8/Recolourful%20Containers%203.1.3%20%281.19.4%2B%29.zip",
+      "name": "recolourful-containers-gui",
+      "version": "Req8KKc8",
+      "type": "resourcepack"
     },
     {
       "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/x99nCLTm/resourcefullib-neoforge-1.21-3.0.12.jar",
@@ -846,61 +894,13 @@
       "name": "zeta",
       "version": "9GjNW2Gf",
       "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/4MlGvnq6/versions/zCdIey5U/Colorful-Ping-Indicator.zip",
-      "name": "colorful-ping-indicator",
-      "version": "zCdIey5U",
-      "type": "resourcepack"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/xN57JJts/FreshAnimations_v1.10.4.zip",
-      "name": "fresh-animations",
-      "version": "xN57JJts",
-      "type": "resourcepack"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/YAVTU8mK/versions/RfJ3uz2J/FA%2BAll_Extensions-v1.8.1.zip",
-      "name": "fresh-animations-extensions",
-      "version": "RfJ3uz2J",
-      "type": "resourcepack"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/RRxvWKNC/versions/yQdcUfnr/LowOnFire%20v26.2%C2%A78.zip",
-      "name": "low-on-fire",
-      "version": "yQdcUfnr",
-      "type": "resourcepack"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/CZrLuVQo/versions/AV6Mwfm5/Low%20Shield.zip",
-      "name": "low-shield-pack",
-      "version": "AV6Mwfm5",
-      "type": "resourcepack"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/lewweaHO/versions/Req8KKc8/Recolourful%20Containers%203.1.3%20%281.19.4%2B%29.zip",
-      "name": "recolourful-containers-gui",
-      "version": "Req8KKc8",
-      "type": "resourcepack"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/Q1vvjJYV/versions/hIibTfxn/BSL_v10.1.3.zip",
-      "name": "bsl-shaders",
-      "version": "hIibTfxn",
-      "type": "shader"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/yCCduG44/ComplementaryReimagined_r5.8.1.zip",
-      "name": "complementary-reimagined",
-      "version": "yCCduG44",
-      "type": "shader"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/VMHXIk50/ComplementaryUnbound_r5.8.1.zip",
-      "name": "complementary-unbound",
-      "version": "VMHXIk50",
-      "type": "shader"
     }
   ],
-  "modify": []
+  "modify": [
+    {
+      "type": "remove",
+      "pattern": "^mods/create-pipes-n-physics-.*\\.jar$",
+      "path": "."
+    }
+  ]
 }
