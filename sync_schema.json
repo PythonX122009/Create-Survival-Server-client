@@ -188,18 +188,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/WrpuIfhw/versions/Zwf8nv8y/corpse-neoforge-1.21.1-1.1.13.jar",
-      "name": "corpse",
-      "version": "Zwf8nv8y",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/pJGcKPh1/versions/Ix4uAd2i/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
-      "name": "corpse-x-curios-api-compat",
-      "version": "Ix4uAd2i",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
       "name": "create",
       "version": "UjX6dr61",
@@ -976,7 +964,12 @@
     },
     {
       "type": "remove",
-      "pattern": "^mods/create-pipes-n-physics-.*\\.jar$",
+      "pattern": "^mods/corpse-.*\\.jar$",
+      "path": "."
+    },
+    {
+      "type": "remove",
+      "pattern": "^mods/corpse-x-curios-api-compat-.*\\.jar$",
       "path": "."
     },
     {
