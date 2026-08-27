@@ -800,9 +800,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/1L6XJqnY/sable-neoforge-1.21.1-2.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/U678xqle/sable-neoforge-1.21.1-2.0.5.jar",
       "name": "sable",
-      "version": "1L6XJqnY",
+      "version": "U678xqle",
       "type": "mod"
     },
     {
@@ -932,6 +932,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar",
+      "name": "worldedit",
+      "version": "WTAFvuRx",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/JXvcT1hp/xaerominimap-neoforge-1.21.1-26.4.2.jar",
       "name": "xaeros-minimap",
       "version": "JXvcT1hp",
@@ -959,27 +965,12 @@
   "modify": [
     {
       "type": "remove",
-      "pattern": "^mods/controlify-.*\\.jar$",
-      "path": "."
-    },
-    {
-      "type": "remove",
       "pattern": "^mods/corpse-.*\\.jar$",
       "path": "."
     },
     {
       "type": "remove",
       "pattern": "^mods/corpse-x-curios-api-compat-.*\\.jar$",
-      "path": "."
-    },
-    {
-      "type": "remove",
-      "pattern": "^mods/vista-aeronautics-fix-.*\\.jar$",
-      "path": "."
-    },
-    {
-      "type": "remove",
-      "pattern": "^mods/world-host-.*\\.jar$",
       "path": "."
     }
   ]
