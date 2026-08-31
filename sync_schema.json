@@ -38,6 +38,12 @@
       "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/PythonX122009/Create-Survival-Server-client/main/mods/arsenal-0.1.5+neoforge.jar",
+      "name": "arsenal",
+      "version": "0.1.5+neoforge",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/dJgL278E/athena-neoforge-1.21.1-4.0.6.jar",
       "name": "athena-ctm",
       "version": "dJgL278E",
@@ -782,6 +788,12 @@
       "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/PythonX122009/Create-Survival-Server-client/main/mods/ratatouille-1.4.3+neoforge.jar",
+      "name": "ratatouille",
+      "version": "1.4.3+neoforge",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/lewweaHO/versions/Req8KKc8/Recolourful%20Containers%203.1.3%20%281.19.4%2B%29.zip",
       "name": "recolourful-containers-gui",
       "version": "Req8KKc8",
@@ -960,18 +972,6 @@
       "name": "zeta",
       "version": "9GjNW2Gf",
       "type": "mod"
-    }
-  ],
-  "modify": [
-    {
-      "type": "remove",
-      "pattern": "^mods/corpse-.*\\.jar$",
-      "path": "."
-    },
-    {
-      "type": "remove",
-      "pattern": "^mods/corpse-x-curios-api-compat-.*\\.jar$",
-      "path": "."
     }
   ]
 }
