@@ -2,7 +2,7 @@
   "sync_version": 3,
   "sync": [
     {
-      "url": "https://raw.githubusercontent.com/PythonX122009/Create-Survival-Server-client/main/mods/aerowarptics-1.3.0 (1).jar",
+      "url": "https://raw.githubusercontent.com/PythonX122009/Create-Survival-Server-client/main/mods/aerowarptics-1.3.0.jar",
       "name": "aerowarptics",
       "version": "1.3.0 (1)",
       "type": "mod"
